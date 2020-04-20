@@ -4,4 +4,4 @@
 
 ## 캡쳐본
 
-<img width="477" alt="과제1_usecase" src="https://user-images.githubusercontent.com/48611456/79734610-f37e5380-8331-11ea-93d9-fa376215c569.png">
+<img width="414" alt="과제1_usecase" src="https://user-images.githubusercontent.com/48611456/79748608-aeb1e700-8348-11ea-9878-394d90387e0d.png">
