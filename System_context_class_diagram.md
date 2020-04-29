@@ -4,4 +4,4 @@
 
 ## 캡쳐본
 
-<img width="501" alt="system_context_class_diagram" src="https://user-images.githubusercontent.com/48611456/80582234-4c906a80-8a49-11ea-82eb-aa6d9684d23a.PNG">
+<img width="511" alt="System context class diagram" src="https://user-images.githubusercontent.com/48611456/80598488-64c1b300-8a64-11ea-871f-4f2c86795749.PNG">
